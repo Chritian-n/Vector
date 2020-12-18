@@ -4,7 +4,12 @@ Hi, I'm a MineCraft Plugin developer, I use Spigot and Bukkit syntax. Thats besi
 
 ## New Features
 
--
+*(All of these features are easily disable in the config)*
+
+- Ranking System
+  - Like LuckPerms but Better and Easily Customizable
+  - Demotion and Promotion Commands
+    - *(/demote - /promote)*
 -
 -
 -
