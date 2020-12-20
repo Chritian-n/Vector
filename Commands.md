@@ -14,3 +14,6 @@
   
 - gma - vector.gamemode.adventure
   - Sets your gamemode to adventure
+
+- heal - vector.heal
+  - Heals the player
